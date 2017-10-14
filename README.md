@@ -1,1 +1,1 @@
-dicee
+This is dicee ios application.
